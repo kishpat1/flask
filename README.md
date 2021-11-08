@@ -7,11 +7,11 @@ a. `source env_setup.sh`
               a.`flask run`
 
 These are the following endpoints to use:
-http://127.0.0.1:5000/companies?operator=HOMERO CARLOS DE SOUZA
+http://127.0.0.1:5000/companies?operator=HOMERO%20CARLOS%20DE%20SOUZA
 
-http://127.0.0.1:5000/operators?company=RAFAEL COUROS LIMITADA
+http://127.0.0.1:5000/operators?company=RAFAEL%20COUROS%20LIMITADA
 
-http://127.0.0.1:5000/graph?company=RAFAEL COUROS LIMITADA
+http://127.0.0.1:5000/graph?company=RAFAEL%20COUROS%20LIMITADA
 
 **Architecture Discussion**
 The main.py script reads in the CSV zip file of Brazilian companies, creates a sqlite DB, 
