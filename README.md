@@ -7,6 +7,7 @@ a. `source env_setup.sh`
               a.`flask run`
 
 These are the following endpoints to use:
+
 http://127.0.0.1:5000/companies?operator=HOMERO%20CARLOS%20DE%20SOUZA
 
 http://127.0.0.1:5000/operators?company=RAFAEL%20COUROS%20LIMITADA
